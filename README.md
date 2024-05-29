@@ -1,5 +1,4 @@
-# gaming_gear_shop
-
+# serizawa_gaming_shop
 A new Flutter project.
 
 ## Getting Started
